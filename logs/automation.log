@@ -1,0 +1,19 @@
+00:58:22.623 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **Entering valid credientials**
+00:58:23.305 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Test TC002_LoginTest Start**
+00:58:23.305 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **clicking on the login link**
+00:58:23.753 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **Test TC002_LoginTest Start**
+00:58:23.753 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **clicking on the login link**
+01:02:01.569 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_Seleniun_Workspace\Practice_Workspace\OpenCartWebApp\crossbrowserTesting.xml
+
+01:02:06.191 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **Test TC002_LoginTest Start**
+01:02:06.191 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **clicking on the login link**
+01:02:07.037 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **Test TC002_LoginTest Start**
+01:02:07.037 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **clicking on the login link**
+01:02:09.613 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **Test TC002_LoginTest Start**
+01:02:09.613 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **clicking on the login link**
+01:02:10.668 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **Reading file from the properties file**
+01:02:10.668 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **Entering valid credientials**
+01:04:34.760 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\JAVA_Seleniun_Workspace\Practice_Workspace\OpenCartWebApp\groups.xml
+

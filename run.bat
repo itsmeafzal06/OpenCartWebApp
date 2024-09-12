@@ -1,0 +1,2 @@
+cd D:\JAVA_Seleniun_Workspace\Practice_Workspace\OpenCartWebApp
+mvn test
